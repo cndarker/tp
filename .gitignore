@@ -1,0 +1,5 @@
+.idea
+composer.lock
+*.log
+
+thinkphp/library/think/Cookie.php
